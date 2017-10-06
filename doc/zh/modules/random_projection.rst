@@ -5,7 +5,7 @@
 ==================
 .. 当前模块:: sklearn.random_projection
 
-:mod:`sklearn.random_projection`模块实现了一个简单且高效率的计算方式来减少数据维度，通过牺牲一定的精度（作为附加变量）来加速处理时间及更小的模型尺寸。
+:mod:`sklearn.random_projection` 模块实现了一个简单且高效率的计算方式来减少数据维度，通过牺牲一定的精度（作为附加变量）来加速处理时间及更小的模型尺寸。
 这个模型实现了两类无结构化的随机矩阵:
 :ref:`Gaussian random matrix <gaussian_random_matrix>` 和
 :ref:`sparse random matrix <sparse_random_matrix>`.
